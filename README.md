@@ -3,7 +3,7 @@
 A minimalist, dark-themed personal portfolio website reflecting an indie/alternative aesthetic. Built with a focus on clean code and user experience, this site serves as the central hub for my academic journey in Computer Engineering & AI, technical projects, and technical writing.
 
 ## 🌐 Live Demo
-You can visit the live version of the website here: **https://iambyk.github.io/**
+You can visit the live version of the website here: **https://berkyagizk.github.io/**
 
 ## ✨ Key Features
 * **Bilingual Architecture (EN/TR):** Fully integrated language toggle to cater to both local and global connections.
